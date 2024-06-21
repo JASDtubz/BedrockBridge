@@ -15,5 +15,15 @@ export const colors = {
     "light_purple": "§d",
     "yellow": "§e",
     "white": "§f",
-    "minecoin_gold": "§g"
+    "minecoin_gold": "§g",
+    "material_quartz" : "§h",
+    "material_iron" : "§i",
+    "material_netherite": "§j",
+    "material_redstone": "§m",
+    "material_copper": "§n",
+    "material_gold": "§p",
+    "material_emerald": "§q",
+    "material_diamond": "§s",
+    "material_lapis": "§t",
+    "material_amethyst": "§u"
 }
